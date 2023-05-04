@@ -43,4 +43,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## ライセンス
 
-Copyright (c) [2023] [模擬試験制作project]. All Rights Reserved.
+Copyright (c) [2023] [TanakaTeam]. All Rights Reserved.
